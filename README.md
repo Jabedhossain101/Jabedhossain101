@@ -1,74 +1,53 @@
-<h1 align="center">Hi 👋, I'm MD JABED HOSSAIN</h1>
-<h3 align="center">A passionate Full stack developer with Mern stack from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabedhossain101&label=Profile%20views&color=0e75b6&style=flat" alt="jabedhossain101" /> </p>
-<img align="right" width="400"  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" />
-
-- 🔭 I’m currently working on **Service-review-system**
-
-- 🌱 I’m currently learning **Next js ,Typescript,mongoose,vue js**
-
-- 👨‍💻 All of my projects are available at [https://jabedportfolio.netlify.app/](https://jabedportfolio.netlify.app/)
-
-- 💬 Ask me about **react, node js,mongoDB**
-
-- 📫 How to reach me **ahmedrafsan101@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mdjabedhossain12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjabedhossain12" height="30" width="40" /></a>
-<a href="https://fb.com/mdjabedhossain27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjabedhossain27" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt="Banner with text" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right:10px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Md Jabed Hossain</h1>
+<h3 align="center">💻 Full Stack Developer (MERN Stack) | 🚀 Passionate Coder | 🌍 From Bangladesh</h3>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabedhossain101&show_icons=true&locale=en&layout=compact" alt="jabedhossain101" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabedhossain101&show_icons=true&locale=en" alt="jabedhossain101" /></p>
+name: Md Jabed Hossain
+from: Bangladesh
+role: Full Stack Developer (MERN Stack)
+education: Computer Science & Engineering
+current_focus: Building scalable web applications with MERN stack
+interests:
+  - Web Development
+  - Backend Architecture
+  - REST API Development
+  - Problem Solving
+💡 Passionate Full Stack Developer specializing in MongoDB, Express.js, React.js, Node.js.
+💡 I build scalable, efficient, and maintainable applications.
+💡 Always learning new technologies to stay ahead in the tech world.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossain101&" alt="jabedhossain101" /></p>
+🛠️ Tech Stack & Tools
+<p align="center"> <!-- Frontend --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p> <p align="center"> <!-- Backend --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> <p align="center"> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </p>
+🚀 Featured Projects
+Matrimony Web App — A complete biodata & premium membership system with React & Node.js.
+
+Plant Management System — Track and manage plant care tasks.
+
+Service Review App — Add services, post reviews, and explore user feedback.
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabedhossain101&theme=tokyonight" alt="GitHub Streak" /> </p>
+📈 Detailed Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&bg_color=0f172a&color=38bdf8&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=onedark&no-frame=true&margin-w=15" /> </p>
+📫 Let's Connect
+🌐 Portfolio: Coming Soon
+
+💼 LinkedIn: linkedin.com/in/jabedhossain101
+
+🐦 Twitter: twitter.com/jabedhossain101
+
+📧 Email: jabedhossain@example.com
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
