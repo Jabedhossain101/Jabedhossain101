@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Tq722qYk/Blackand-White-Animated-Gaming-Twitch-Banner-ezgif-com-video-to-gif-converter-1.gif" alt="Banner with text" width="100%" />
+  <img src="https://i.ibb.co.com/HfxF6XDz/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" alt="Banner with text" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Jabed Hossain</h1>
