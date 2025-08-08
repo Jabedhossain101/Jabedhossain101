@@ -1,87 +1,74 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jabedhossain101/Jabedhossain101/main/assets/banner.png" alt="Banner" width="100%" />
+<h1 align="center">Hi 👋, I'm MD JABED HOSSAIN</h1>
+<h3 align="center">A passionate Full stack developer with Mern stack from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabedhossain101&label=Profile%20views&color=0e75b6&style=flat" alt="jabedhossain101" /> </p>
+<img align="right" width="400"  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" />
+
+- 🔭 I’m currently working on **Service-review-system**
+
+- 🌱 I’m currently learning **Next js ,Typescript,mongoose,vue js**
+
+- 👨‍💻 All of my projects are available at [https://jabedportfolio.netlify.app/](https://jabedportfolio.netlify.app/)
+
+- 💬 Ask me about **react, node js,mongoDB**
+
+- 📫 How to reach me **ahmedrafsan101@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mdjabedhossain12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjabedhossain12" height="30" width="40" /></a>
+<a href="https://fb.com/mdjabedhossain27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjabedhossain27" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Jabed Hossain</h1>
-<h3 align="center">💻 Full Stack Developer (MERN Stack) | 🚀 Passionate Coder | 🌍 From Bangladesh</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right:10px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" />
+  </a>
+</p>
 
----
 
-## 🧑‍💻 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabedhossain101&show_icons=true&locale=en&layout=compact" alt="jabedhossain101" /></p>
 
-```yaml
-name: Md Jabed Hossain
-from: Bangladesh
-role: Full Stack Developer (MERN Stack)
-education: Computer Science & Engineering
-current_focus: Building scalable web applications with MERN stack
-interests:
-  - Web Development
-  - Backend Architecture
-  - REST API Development
-  - Problem Solving
-💡 Passionate Full Stack Developer specializing in MongoDB, Express.js, React.js, Node.js.
-💡 I build scalable, efficient, and maintainable applications.
-💡 Always learning new technologies to stay ahead in the tech world.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabedhossain101&show_icons=true&locale=en" alt="jabedhossain101" /></p>
 
-# 👨‍💻 Jabed Hossain | Full Stack Developer (MERN)
-
-Welcome to my GitHub! I'm Jabed Hossain, a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I love building scalable web applications, solving real-world problems, and continuously learning new technologies.
-
----
-
-## 📊 GitHub Stats & Activity
-
-- 🔥 **2.15k+ Contributions** in 2025
-- 📁 **110+ Public Repositories**
-- 🗓️ **Joined GitHub**: 4 years ago
-- 🌍 **Location**: Bangladesh
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=radical)
-
----
-
-## 🧠 Skills & Technologies
-
-### 💻 Frontend
-- React.js, Redux, HTML5, CSS3, Tailwind, Bootstrap
-
-### 🛠 Backend
-- Node.js, Express.js, REST APIs, JWT, Socket.io
-
-### 🗄️ Database
-- MongoDB, Mongoose, Firebase, SQL
-
-### 🧪 Tools & DevOps
-- Git, GitHub, VS Code, Postman, Vercel, Netlify
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Portfolio Website](https://github.com/Jabedhossain101/portfolio) | Personal portfolio showcasing my work | React, Tailwind |
-| [E-commerce App](https://github.com/Jabedhossain101/ecommerce-app) | Full-featured shopping platform | MERN Stack |
-| [Chat App](https://github.com/Jabedhossain101/chat-app) | Real-time messaging app | Node.js, Socket.io, React |
-
----
-
-## 🕒 Commit Activity (UTC +6)
-
-![Commit Times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jabedhossain101&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jabedhossain101)
-- 📧 Email: jabedhossain101@example.com
-- 🌐 [Portfolio Website](https://jabedhossain101.github.io)
-
----
-
-_Thanks for stopping by! Let's build something amazing together._ 🚀
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossain101&" alt="jabedhossain101" /></p>
