@@ -25,30 +25,63 @@ interests:
 💡 I build scalable, efficient, and maintainable applications.
 💡 Always learning new technologies to stay ahead in the tech world.
 
-🛠️ Tech Stack & Tools
-<p align="center"> <!-- Frontend --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p> <p align="center"> <!-- Backend --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> <p align="center"> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </p>
-🚀 Featured Projects
-Matrimony Web App — A complete biodata & premium membership system with React & Node.js.
+# 👨‍💻 Jabed Hossain | Full Stack Developer (MERN)
 
-Plant Management System — Track and manage plant care tasks.
+Welcome to my GitHub! I'm Jabed Hossain, a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I love building scalable web applications, solving real-world problems, and continuously learning new technologies.
 
-Service Review App — Add services, post reviews, and explore user feedback.
+---
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabedhossain101&theme=tokyonight" alt="GitHub Streak" /> </p>
-📈 Detailed Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&bg_color=0f172a&color=38bdf8&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=onedark&no-frame=true&margin-w=15" /> </p>
-📫 Let's Connect
-🌐 Portfolio: Coming Soon
+## 📊 GitHub Stats & Activity
 
-💼 LinkedIn: linkedin.com/in/jabedhossain101
+- 🔥 **2.15k+ Contributions** in 2025
+- 📁 **110+ Public Repositories**
+- 🗓️ **Joined GitHub**: 4 years ago
+- 🌍 **Location**: Bangladesh
 
-🐦 Twitter: twitter.com/jabedhossain101
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=radical)
 
-📧 Email: jabedhossain@example.com
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> ```
+## 🧠 Skills & Technologies
+
+### 💻 Frontend
+- React.js, Redux, HTML5, CSS3, Tailwind, Bootstrap
+
+### 🛠 Backend
+- Node.js, Express.js, REST APIs, JWT, Socket.io
+
+### 🗄️ Database
+- MongoDB, Mongoose, Firebase, SQL
+
+### 🧪 Tools & DevOps
+- Git, GitHub, VS Code, Postman, Vercel, Netlify
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Portfolio Website](https://github.com/Jabedhossain101/portfolio) | Personal portfolio showcasing my work | React, Tailwind |
+| [E-commerce App](https://github.com/Jabedhossain101/ecommerce-app) | Full-featured shopping platform | MERN Stack |
+| [Chat App](https://github.com/Jabedhossain101/chat-app) | Real-time messaging app | Node.js, Socket.io, React |
+
+---
+
+## 🕒 Commit Activity (UTC +6)
+
+![Commit Times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jabedhossain101&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jabedhossain101)
+- 📧 Email: jabedhossain101@example.com
+- 🌐 [Portfolio Website](https://jabedhossain101.github.io)
+
+---
+
+_Thanks for stopping by! Let's build something amazing together._ 🚀
+
