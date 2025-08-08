@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt="Banner with text" width="100%" />
+  <img src="https://i.ibb.co.com/Tq722qYk/Blackand-White-Animated-Gaming-Twitch-Banner-ezgif-com-video-to-gif-converter-1.gif" alt="Banner with text" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Jabed Hossain</h1>
