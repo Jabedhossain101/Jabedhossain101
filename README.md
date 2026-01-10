@@ -67,19 +67,47 @@ Plant Management System — Track and manage plant care tasks.
 
 Service Review App — Add services, post reviews, and explore user feedback.
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/> </p>
+
 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabedhossain101&theme=tokyonight" alt="GitHub Streak" /> </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jabedhossain101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Jabedhossain101&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&theme=dark&hide_border=false&layout=compact)
 
 ---
+<!-- Live Metrics -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Jabedhossain101?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/Jabedhossain101?label=Total%20Stars&style=for-the-badge&color=yellow" />
+
+<!-- Recent Activity -->
+### 📊 **Recent Activity**
+
+
+
+<!-- Coding Stats -->
+### 💻 **This Week's Coding Time**
+
+```text
+JavaScript   ████████████░░░░░░░░░   48.2% 
+React        ████████░░░░░░░░░░░░░   32.1%
+TypeScript   ████░░░░░░░░░░░░░░░░░   16.5%
+CSS          ██░░░░░░░░░░░░░░░░░░░    8.7%
+HTML         █░░░░░░░░░░░░░░░░░░░░    4.3%
+```
+
+<!-- Cool Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+
+</div>
+
 
 📈 Detailed Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&bg_color=0f172a&color=38bdf8&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
