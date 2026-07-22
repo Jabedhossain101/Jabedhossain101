@@ -125,14 +125,15 @@ interests:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
-> ℹ️ **Note on reliability:** two of these widgets were pointing at dead/paused services and have been fixed:
+> ℹ️ **Note on reliability:** three of these widgets were pointing at dead/overloaded services and have been fixed:
 > - **Streak stats** previously used `github-readme-streak-stats.herokuapp.com`, dead since Heroku dropped its free tier → now uses `streak-stats.demolab.com`.
 > - **Stats & Top Languages cards** previously used `github-readme-stats.vercel.app`. That project's public deployment was **paused by its maintainer in January 2026** and the repo is now archived in favor of a maintained fork → now uses `github-stats-extended.vercel.app` (drop-in replacement, same parameters).
+> - **Trophies** used the shared public `github-profile-trophy.vercel.app` instance, which the maintainer has flagged as overloaded and rate-limited due to its popularity → now uses a volunteer-run mirror, `github-profile-trophy-liard-delta.vercel.app` (same parameters, listed as an official alternate endpoint in the project's own README).
 >
-> If a widget ever goes blank again, it's almost always the third-party image host, not your README. See the **Notes** section below for self-hosting fallbacks.
+> If a widget ever goes blank again, it's almost always the third-party image host, not your README. See the **Notes** section below for more fallback mirrors and self-hosting instructions.
 
 ---
 
@@ -175,6 +176,7 @@ interests:
 
 - **Streak stats fix:** the old `github-readme-streak-stats.herokuapp.com` domain is dead because Heroku discontinued free dynos. This file uses `streak-stats.demolab.com`, a community-maintained mirror that stays online. If it ever goes down too, self-host the [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project on Vercel for a permanent fix.
 - **Stats/langs cards fix:** the old `github-readme-stats.vercel.app` is **dead** — the original repo (`anuraghazra/github-readme-stats`) is archived and its public instance was paused in Jan 2026 due to cost/rate-limit issues. This file now uses `github-stats-extended.vercel.app`, the officially-endorsed actively-maintained successor ([source repo](https://github.com/stats-organization/github-stats-extended)) — same query parameters, just a different domain. For maximum reliability (no shared rate limits), you can self-host your own instance on Vercel using that repo's one-click deploy button.
+- **Trophies fix:** the shared `github-profile-trophy.vercel.app` instance gets overloaded because it's used by huge numbers of profiles at once. This file now uses `github-profile-trophy-liard-delta.vercel.app`, one of several volunteer-run mirrors listed directly in the [official repo README](https://github.com/ryo-ma/github-profile-trophy) for load balancing. If that particular mirror ever slows down, other official alternates include `github-profile-trophy-fork-two.vercel.app`, `github-profile-trophy-winning.vercel.app`, and `github-profile-trophy-kannan.vercel.app` — just swap the domain, all parameters stay the same. For a permanent fix, fork the repo and deploy your own free Vercel instance.
 - **Trophies:** served from `github-profile-trophy.vercel.app` ([source](https://github.com/ryo-ma/github-profile-trophy)).
 - **Activity graph:** served from `github-readme-activity-graph.vercel.app` ([source](https://github.com/Ashutosh00710/github-readme-activity-graph)).
 - Replace `Jabedhossain101` throughout if your GitHub username ever changes.
