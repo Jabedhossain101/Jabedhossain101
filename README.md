@@ -112,8 +112,8 @@ interests:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Jabedhossain101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jabedhossain101&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -128,7 +128,11 @@ interests:
   <img src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
-> ℹ️ **Note on reliability:** the GitHub streak widget previously used `github-readme-streak-stats.herokuapp.com`, which stopped working after Heroku removed its free tier. This README now uses the actively maintained `streak-stats.demolab.com` mirror instead. If any widget stops rendering, it's usually a temporary outage on the third-party stats service — refresh the page or swap in an alternate mirror (see the **Notes** section below).
+> ℹ️ **Note on reliability:** two of these widgets were pointing at dead/paused services and have been fixed:
+> - **Streak stats** previously used `github-readme-streak-stats.herokuapp.com`, dead since Heroku dropped its free tier → now uses `streak-stats.demolab.com`.
+> - **Stats & Top Languages cards** previously used `github-readme-stats.vercel.app`. That project's public deployment was **paused by its maintainer in January 2026** and the repo is now archived in favor of a maintained fork → now uses `github-stats-extended.vercel.app` (drop-in replacement, same parameters).
+>
+> If a widget ever goes blank again, it's almost always the third-party image host, not your README. See the **Notes** section below for self-hosting fallbacks.
 
 ---
 
@@ -169,8 +173,8 @@ interests:
 <details>
 <summary>🛠️ Notes for maintaining this README (click to expand)</summary>
 
-- **Streak stats fix:** the old `github-readme-streak-stats.herokuapp.com` domain is dead because Heroku discontinued free dynos. This file uses `streak-stats.demolab.com`, a community-maintained fork that stays online. If it ever goes down too, self-host the [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project on Vercel for a permanent fix.
-- **Stats/langs cards:** served from `github-readme-stats.vercel.app`, the standard actively-maintained service. If you hit rate limits, you can deploy your own instance from the [source repo](https://github.com/anuraghazra/github-readme-stats).
+- **Streak stats fix:** the old `github-readme-streak-stats.herokuapp.com` domain is dead because Heroku discontinued free dynos. This file uses `streak-stats.demolab.com`, a community-maintained mirror that stays online. If it ever goes down too, self-host the [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project on Vercel for a permanent fix.
+- **Stats/langs cards fix:** the old `github-readme-stats.vercel.app` is **dead** — the original repo (`anuraghazra/github-readme-stats`) is archived and its public instance was paused in Jan 2026 due to cost/rate-limit issues. This file now uses `github-stats-extended.vercel.app`, the officially-endorsed actively-maintained successor ([source repo](https://github.com/stats-organization/github-stats-extended)) — same query parameters, just a different domain. For maximum reliability (no shared rate limits), you can self-host your own instance on Vercel using that repo's one-click deploy button.
 - **Trophies:** served from `github-profile-trophy.vercel.app` ([source](https://github.com/ryo-ma/github-profile-trophy)).
 - **Activity graph:** served from `github-readme-activity-graph.vercel.app` ([source](https://github.com/Ashutosh00710/github-readme-activity-graph)).
 - Replace `Jabedhossain101` throughout if your GitHub username ever changes.
