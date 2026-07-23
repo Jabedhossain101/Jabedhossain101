@@ -1,95 +1,89 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Md.+Jabed+Hossain;Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+React;Always+Learning+New+Technologies" />
-</p>
-
-<!-- ========================================= -->
-<!--                HEADER SECTION              -->
-<!-- ========================================= -->
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                    -->
+<!--                   Part 1/8 - Header                       -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/HfxF6XDz/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co.com/HfxF6XDz/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">
-Hi 👋, I'm <strong>Md. Jabed Hossain</strong>
+Hi 👋, I'm <a href="https://github.com/Jabedhossain101">Md. Jabed Hossain</a>
 </h1>
 
 <h3 align="center">
-💻 Full Stack Developer | TypeScript • Next.js • React • Node.js
+💻 Full Stack Developer • TypeScript • Next.js • React • Node.js
 </h3>
 
 <p align="center">
-Building scalable web applications while continuously learning modern technologies.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+React;Node.js+%7C+Express.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+
 </p>
 
----
-
-# 💫 About Me
-
-<img align="right" alt="coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 Computer Science & Engineering Student
-
-- 💻 Passionate Full Stack Developer
-
-- 🌱 Currently learning
-  - Advanced TypeScript
-  - Next.js
-  - System Design
-  - Docker
-
-- 🔥 Interested in
-  - Backend Development
-  - Clean Architecture
-  - REST API
-  - Database Design
-
-- 🚀 Goal
-  - Build scalable production-ready applications
-  - Work remotely with international companies
-
-- 📫 Email
-
-```
-ahmedrafsan101@gmail.com
-```
-
-- ⚡ Fun Fact
-
-```
-I love solving problems and building real-world applications.
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
 
 <a href="https://jabedportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mdjabedhossain12">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Jabedhossain101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="mailto:ahmedrafsan101@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jabedhossain101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 👨‍💻 About Me
 
-## 🚀 Frontend
+<img
+align="right"
+width="360"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
+
+I'm **Md. Jabed Hossain**, a passionate **Full Stack Developer** from **Bangladesh 🇧🇩**.
+
+I enjoy building scalable, maintainable, and user-friendly web applications using modern technologies.
+
+I believe in writing clean code, continuously learning new technologies, and solving real-world problems through software.
+
+---
+
+## 🚀 Current Focus
+
+- 💻 Building Full Stack Applications
+
+- 🌱 Learning Advanced TypeScript
+
+- ⚛️ Mastering Next.js
+
+- 🐳 Learning Docker
+
+- 🏗 Studying System Design
+
+- 📚 Improving Problem Solving Skills
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a Software Engineer capable of building scalable production-ready systems while working with international teams and contributing to impactful products.
+
+---
+
+# ⚡ Tech Stack
+
+## Frontend
 
 <p>
 
@@ -105,13 +99,13 @@ I love solving problems and building real-world applications.
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=next"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
 
 </p>
 
 ---
 
-## ⚙ Backend
+## Backend
 
 <p>
 
@@ -123,7 +117,7 @@ I love solving problems and building real-world applications.
 
 ---
 
-## 🗄 Database
+## Database
 
 <p>
 
@@ -137,7 +131,21 @@ I love solving problems and building real-world applications.
 
 ---
 
-## 🛠 Tools
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+</p>
+
+---
+
+## Tools
 
 <p>
 
@@ -157,140 +165,203 @@ I love solving problems and building real-world applications.
 
 ---
 
-## 💡 Programming Languages
+## 💡 Currently Exploring
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-</p>
+- Advanced TypeScript
+- Next.js App Router
+- Docker
+- PostgreSQL
+- Prisma ORM
+- System Design
 
 ---
+<!-- ========================================================= -->
+<!--              FEATURED PROJECTS (Part 2/8)                 -->
+<!-- ========================================================= -->
 
-# 🚀 Currently Exploring
-
-- ✅ TypeScript Advanced Concepts
-
-- ✅ Next.js App Router
-
-- ✅ Authentication & Authorization
-
-- ✅ Docker
-
-- ✅ PostgreSQL
-
-- ✅ Prisma ORM
-
-- ✅ System Design
-
----
-
-# 🎯 2026 Goals
-
-✔ Build more production-ready projects
-
-✔ Master TypeScript
-
-✔ Master Next.js
-
-✔ Learn Docker
-
-✔ Learn PostgreSQL
-
-✔ Learn Prisma
-
-✔ Contribute to Open Source
-
-✔ Land a Remote Software Engineer Job
-
----
 # 🚀 Featured Projects
 
+Here are some of the projects I've built to strengthen my full-stack development skills.
+
+<br>
+
 <table>
+
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ## 💍 Matrimony Platform
 
-A complete matrimony platform with authentication, premium membership, admin dashboard, and secure payment integration.
+A complete matrimony web application with authentication, premium membership, payment integration, admin dashboard, and role-based access.
 
-**Tech Stack**
+### ✨ Features
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- JWT
+- Secure Authentication
+- Premium Membership
+- Admin Dashboard
+- Responsive Design
+- Payment Integration
 
-🔗 **Live Demo:** https://your-live-link.com
+### 🛠 Tech Stack
 
-📂 **Repository:** https://github.com/Jabedhossain101
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔗 Links
+
+> 🌐 Live Demo: **YOUR_LIVE_LINK**
+
+> 📂 Repository: **YOUR_GITHUB_REPO**
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ## 🌱 Plant Care Management
 
-A responsive plant management system where users can organize plants, schedule care reminders, and manage collections.
+A responsive plant management system where users can organize plants, monitor watering schedules, and manage collections.
 
-**Tech Stack**
+### ✨ Features
 
-- React
-- Node.js
-- MongoDB
-- Tailwind CSS
+- Plant Management
+- Reminder System
+- Search & Filter
+- Dashboard
+- CRUD Operations
 
-🔗 **Live Demo:** https://your-live-link.com
+### 🛠 Tech Stack
 
-📂 **Repository:** https://github.com/Jabedhossain101
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### 🔗 Links
+
+> 🌐 Live Demo: **YOUR_LIVE_LINK**
+
+> 📂 Repository: **YOUR_GITHUB_REPO**
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ## ⭐ Service Review Platform
 
-Users can add services, write reviews, update/delete feedback, and securely access protected routes using JWT authentication.
+A review platform that allows users to add services, publish reviews, edit feedback, and securely manage data.
 
-**Tech Stack**
+### ✨ Features
 
-- React
-- Express
-- MongoDB
-- JWT
+- Authentication
+- CRUD Operations
+- Protected Routes
+- JWT Security
+- Responsive UI
 
-🔗 **Live Demo:** https://your-live-link.com
+### 🛠 Tech Stack
 
-📂 **Repository:** https://github.com/Jabedhossain101
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+
+### 🔗 Links
+
+> 🌐 Live Demo: **YOUR_LIVE_LINK**
+
+> 📂 Repository: **YOUR_GITHUB_REPO**
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
+# 💼 What I Can Build
+
+- 🌐 Full Stack Web Applications
+
+- 📱 Responsive Websites
+
+- 🔐 Authentication & Authorization Systems
+
+- 📊 Admin Dashboards
+
+- 🛒 E-commerce Platforms
+
+- 💬 REST APIs
+
+- 🧾 CRUD Applications
+
+- 📂 File Upload Systems
+
+- 📦 Backend APIs
+
+- ☁️ Deployment Ready Applications
+
+---
+
+# 🧠 Development Philosophy
+
+I enjoy writing clean, maintainable, and scalable code.
+
+My goal is not only to make applications work but also to ensure they are easy to understand, extend, and maintain.
+
+I value:
+
+- Clean Code
+- Reusable Components
+- Performance
+- Scalability
+- Accessibility
+- Responsive Design
+- User Experience
+
+---
+
+# 📚 Currently Learning
+
+- Advanced TypeScript
+- Next.js
+- Docker
+- PostgreSQL
+- Prisma ORM
+- System Design
+- Design Patterns
+
+---
+<!-- ========================================================= -->
+<!--               GITHUB ANALYTICS (Part 3/8)                 -->
+<!-- ========================================================= -->
+
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -298,11 +369,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Jabedhossain101&theme=tokyonight&hide_border=true"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=Jabedhossain101&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -310,160 +380,194 @@ src="https://streak-stats.demolab.com?user=Jabedhossain101&theme=tokyonight&hide
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&theme=tokyo-night&hide_border=true"
-/>
-
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
+    alt="GitHub Trophy"
+  />
+</p>
+
+---
+
+# 📑 GitHub Profile Summary
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabedhossain101&theme=tokyonight"
+    alt="Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jabedhossain101&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jabedhossain101&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jabedhossain101&theme=tokyonight"
+    alt="GitHub Stats Summary"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jabedhossain101&theme=tokyonight&utcOffset=6"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile%20Views&style=for-the-badge&color=0e75b6"
+    alt="Profile Views"
+  />
+
+  <img
+    src="https://img.shields.io/github/followers/Jabedhossain101?style=for-the-badge&logo=github"
+    alt="Followers"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/Jabedhossain101?style=for-the-badge&logo=github"
+    alt="Stars"
+  />
+</p>
+
+---
+
+# 📅 GitHub Activity
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"
-/>
+![GitHub last commit](https://img.shields.io/github/last-commit/Jabedhossain101/Jabedhossain101?style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Jabedhossain101/Jabedhossain101?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Jabedhossain101/Jabedhossain101?style=for-the-badge)
 
 </p>
 
 ---
+<!-- ========================================================= -->
+<!--          LEARNING • CONTACT • COLLABORATION              -->
+<!-- ========================================================= -->
 
-# 📈 GitHub Summary
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabedhossain101&theme=tokyonight"
-/>
-
-</p>
-
----
-
-# 📌 Most Used Languages
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jabedhossain101&theme=tokyonight"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jabedhossain101&theme=tokyonight"
-/>
-
-</p>
-
----
-
-# ⚡ GitHub Productivity
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jabedhossain101&theme=tokyonight"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jabedhossain101&theme=tokyonight&utcOffset=6"
-/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile+Views&color=0e75b6&style=for-the-badge"
-/>
-
-<img
-src="https://img.shields.io/github/followers/Jabedhossain101?style=for-the-badge"
-/>
-
-<img
-src="https://img.shields.io/github/stars/Jabedhossain101?style=for-the-badge"
-/>
-
-</p>
-
----
 # 🌱 Currently Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/System_Design-FF6B00?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,docker,postgres,prisma"/>
 
 </p>
 
----
+I'm currently expanding my knowledge in modern software engineering by focusing on:
 
-# 🎯 2026 Roadmap
-
-- ✅ Master Advanced TypeScript
-- ✅ Build Production-ready Next.js Applications
-- ✅ Learn Docker & CI/CD
-- ✅ Master PostgreSQL & Prisma
-- ✅ Solve 500+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Land a Remote Software Engineer Role
-
----
-
-# 🤝 Open for Collaboration
-
-I'm always interested in collaborating on:
-
-- 🚀 Open Source Projects
-- 💼 Freelance Opportunities
-- 🌍 Remote Full Stack Development
-- 📚 Learning Communities
-- 💡 Innovative Startup Ideas
+- Advanced TypeScript
+- Next.js App Router
+- PostgreSQL
+- Prisma ORM
+- Docker
+- System Design
+- Design Patterns
+- Backend Architecture
 
 ---
 
-# 📫 Contact Me
+# 🎯 2026 Goals
+
+- 🚀 Become a Professional Full Stack Engineer
+
+- 💼 Land an International Remote Job
+
+- 📚 Master TypeScript
+
+- ⚡ Master Next.js
+
+- 🐳 Learn Docker & DevOps
+
+- 🐘 Master PostgreSQL
+
+- 🔥 Learn Microservices
+
+- 🤝 Contribute to Open Source
+
+- 🧠 Solve 500+ DSA Problems
+
+---
+
+# 🤝 Open To
+
+- Freelance Opportunities
+
+- Open Source Collaboration
+
+- Remote Full Stack Development
+
+- Startup Projects
+
+- Long-term Development Partnerships
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:ahmedrafsan101@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/mdjabedhossain12">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://jabedportfolio.netlify.app">
+
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Jabedhossain101">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Quote
 
 > **"First, solve the problem. Then, write the code."**
 >
@@ -471,18 +575,10 @@ I'm always interested in collaborating on:
 
 ---
 
-# ❤️ Thanks for Visiting
-
-<p align="center">
+# ❤️ Support
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-</p>
+It motivates me to build more open-source projects.
 
 ---
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&fontColor=ffffff"/>
-
-</p>
