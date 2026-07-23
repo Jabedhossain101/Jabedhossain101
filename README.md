@@ -1,188 +1,488 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/HfxF6XDz/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Md.+Jabed+Hossain;Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+React;Always+Learning+New+Technologies" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Jabed Hossain</h1>
-<h3 align="center">💻 Full Stack Developer (MERN Stack) | 🚀 Passionate Coder | 🌍 From Bangladesh</h3>
+<!-- ========================================= -->
+<!--                HEADER SECTION              -->
+<!-- ========================================= -->
 
 <p align="center">
-  <a href="https://jabedportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mdjabedhossain12" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/jabedhossain101" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:ahmedrafsan101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://i.ibb.co.com/HfxF6XDz/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" width="100%" alt="Banner"/>
+</p>
+
+<h1 align="center">
+Hi 👋, I'm <strong>Md. Jabed Hossain</strong>
+</h1>
+
+<h3 align="center">
+💻 Full Stack Developer | TypeScript • Next.js • React • Node.js
+</h3>
+
+<p align="center">
+Building scalable web applications while continuously learning modern technologies.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 💫 About Me
 
-```yaml
-name: Md Jabed Hossain
-location: Bangladesh 🇧🇩
-role: Full Stack Developer (MERN Stack)
-education: Computer Science & Engineering
-current_focus: Building scalable, production-ready web applications
-interests:
-  - Web Development
-  - Backend Architecture
-  - REST API Design
-  - Problem Solving & DSA
+<img align="right" alt="coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Computer Science & Engineering Student
+
+- 💻 Passionate Full Stack Developer
+
+- 🌱 Currently learning
+  - Advanced TypeScript
+  - Next.js
+  - System Design
+  - Docker
+
+- 🔥 Interested in
+  - Backend Development
+  - Clean Architecture
+  - REST API
+  - Database Design
+
+- 🚀 Goal
+  - Build scalable production-ready applications
+  - Work remotely with international companies
+
+- 📫 Email
+
+```
+ahmedrafsan101@gmail.com
 ```
 
-- 💡 Passionate Full Stack Developer specializing in **MongoDB, Express.js, React.js, Node.js**
-- 🏗️ I build scalable, efficient, and maintainable applications end-to-end
-- 📚 Always learning new technologies to stay ahead in the tech world
-- 🤝 Open to collaborating on interesting open-source and freelance projects
+- ⚡ Fun Fact
+
+```
+I love solving problems and building real-world applications.
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-**Frontend**
+# 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
-**Backend & Database**
+<a href="https://jabedportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<a href="https://www.linkedin.com/in/mdjabedhossain12">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Languages**
+<a href="https://github.com/Jabedhossain101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+<a href="mailto:ahmedrafsan101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Tools & Platforms**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
+
+## 🚀 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=next"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+<img src="https://skillicons.dev/icons?i=netlify"/>
+
+</p>
+
+---
+
+## 💡 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+</p>
+
+---
+
+# 🚀 Currently Exploring
+
+- ✅ TypeScript Advanced Concepts
+
+- ✅ Next.js App Router
+
+- ✅ Authentication & Authorization
+
+- ✅ Docker
+
+- ✅ PostgreSQL
+
+- ✅ Prisma ORM
+
+- ✅ System Design
+
+---
+
+# 🎯 2026 Goals
+
+✔ Build more production-ready projects
+
+✔ Master TypeScript
+
+✔ Master Next.js
+
+✔ Learn Docker
+
+✔ Learn PostgreSQL
+
+✔ Learn Prisma
+
+✔ Contribute to Open Source
+
+✔ Land a Remote Software Engineer Job
+
+---
+# 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3>💍 Matrimony Web App</h3>
-      <p>A complete biodata & premium membership platform with authentication, admin dashboard, and payment integration.</p>
-      <p><b>Stack:</b> React, Node.js, Express, MongoDB, Firebase Auth</p>
-    </td>
-    <td width="33%">
-      <h3>🌱 Plant Management System</h3>
-      <p>Track and manage plant care tasks with reminders, categories, and a clean dashboard UI.</p>
-      <p><b>Stack:</b> React, Node.js, MongoDB, Tailwind CSS</p>
-    </td>
-    <td width="33%">
-      <h3>⭐ Service Review App</h3>
-      <p>Add services, post reviews, and explore user feedback with full CRUD and JWT-secured routes.</p>
-      <p><b>Stack:</b> React, Express.js, MongoDB, JWT</p>
-    </td>
-  </tr>
+<tr>
+
+<td width="33%">
+
+## 💍 Matrimony Platform
+
+A complete matrimony platform with authentication, premium membership, admin dashboard, and secure payment integration.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- JWT
+
+🔗 **Live Demo:** https://your-live-link.com
+
+📂 **Repository:** https://github.com/Jabedhossain101
+
+</td>
+
+<td width="33%">
+
+## 🌱 Plant Care Management
+
+A responsive plant management system where users can organize plants, schedule care reminders, and manage collections.
+
+**Tech Stack**
+
+- React
+- Node.js
+- MongoDB
+- Tailwind CSS
+
+🔗 **Live Demo:** https://your-live-link.com
+
+📂 **Repository:** https://github.com/Jabedhossain101
+
+</td>
+
+<td width="33%">
+
+## ⭐ Service Review Platform
+
+Users can add services, write reviews, update/delete feedback, and securely access protected routes using JWT authentication.
+
+**Tech Stack**
+
+- React
+- Express
+- MongoDB
+- JWT
+
+🔗 **Live Demo:** https://your-live-link.com
+
+📂 **Repository:** https://github.com/Jabedhossain101
+
+</td>
+
+</tr>
 </table>
 
-> 📌 Want to see more? Check out my full project list on my [Portfolio](https://jabedportfolio.netlify.app) or [GitHub Repositories](https://github.com/Jabedhossain101?tab=repositories).
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jabedhossain101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jabedhossain101&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+
+<img
+src="https://streak-stats.demolab.com?user=Jabedhossain101&theme=tokyonight&hide_border=true"
+/>
+
 </p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jabedhossain101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&theme=tokyo-night&hide_border=true"
+/>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&bg_color=0f172a&color=38bdf8&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"
+/>
+
 </p>
+
+---
+
+# 📈 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabedhossain101&theme=tokyonight"
+/>
+
 </p>
 
-> ℹ️ **Note on reliability:** three of these widgets were pointing at dead/overloaded services and have been fixed:
-> - **Streak stats** previously used `github-readme-streak-stats.herokuapp.com`, dead since Heroku dropped its free tier → now uses `streak-stats.demolab.com`.
-> - **Stats & Top Languages cards** previously used `github-readme-stats.vercel.app`. That project's public deployment was **paused by its maintainer in January 2026** and the repo is now archived in favor of a maintained fork → now uses `github-stats-extended.vercel.app` (drop-in replacement, same parameters).
-> - **Trophies** used the shared public `github-profile-trophy.vercel.app` instance, which the maintainer has flagged as overloaded and rate-limited due to its popularity → now uses a volunteer-run mirror, `github-profile-trophy-liard-delta.vercel.app` (same parameters, listed as an official alternate endpoint in the project's own README).
+---
+
+# 📌 Most Used Languages
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jabedhossain101&theme=tokyonight"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jabedhossain101&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+# ⚡ GitHub Productivity
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jabedhossain101&theme=tokyonight"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jabedhossain101&theme=tokyonight&utcOffset=6"
+/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile+Views&color=0e75b6&style=for-the-badge"
+/>
+
+<img
+src="https://img.shields.io/github/followers/Jabedhossain101?style=for-the-badge"
+/>
+
+<img
+src="https://img.shields.io/github/stars/Jabedhossain101?style=for-the-badge"
+/>
+
+</p>
+
+---
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System_Design-FF6B00?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Master Advanced TypeScript
+- ✅ Build Production-ready Next.js Applications
+- ✅ Learn Docker & CI/CD
+- ✅ Master PostgreSQL & Prisma
+- ✅ Solve 500+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Land a Remote Software Engineer Role
+
+---
+
+# 🤝 Open for Collaboration
+
+I'm always interested in collaborating on:
+
+- 🚀 Open Source Projects
+- 💼 Freelance Opportunities
+- 🌍 Remote Full Stack Development
+- 📚 Learning Communities
+- 💡 Innovative Startup Ideas
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:ahmedrafsan101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mdjabedhossain12">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://jabedportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jabedhossain101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**
 >
-> If a widget ever goes blank again, it's almost always the third-party image host, not your README. See the **Notes** section below for more fallback mirrors and self-hosting instructions.
+> — John Johnson
 
 ---
 
-## 📈 Live Metrics
+# ❤️ Thanks for Visiting
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jabedhossain101&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Jabedhossain101?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Jabedhossain101?label=Total%20Stars&style=for-the-badge&color=yellow" />
+
+If you like my work, consider giving a ⭐ to my repositories.
+
 </p>
 
 ---
-
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-System%20Design-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square" />
-</p>
-
----
-
-## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://jabedportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mdjabedhossain12" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/jabedhossain101" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:ahmedrafsan101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&fontColor=ffffff"/>
+
 </p>
-
-<p align="center"><i>💬 Feel free to reach out for collaborations, freelance work, or just a friendly tech chat!</i></p>
-
----
-
-<details>
-<summary>🛠️ Notes for maintaining this README (click to expand)</summary>
-
-- **Streak stats fix:** the old `github-readme-streak-stats.herokuapp.com` domain is dead because Heroku discontinued free dynos. This file uses `streak-stats.demolab.com`, a community-maintained mirror that stays online. If it ever goes down too, self-host the [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project on Vercel for a permanent fix.
-- **Stats/langs cards fix:** the old `github-readme-stats.vercel.app` is **dead** — the original repo (`anuraghazra/github-readme-stats`) is archived and its public instance was paused in Jan 2026 due to cost/rate-limit issues. This file now uses `github-stats-extended.vercel.app`, the officially-endorsed actively-maintained successor ([source repo](https://github.com/stats-organization/github-stats-extended)) — same query parameters, just a different domain. For maximum reliability (no shared rate limits), you can self-host your own instance on Vercel using that repo's one-click deploy button.
-- **Trophies fix:** the shared `github-profile-trophy.vercel.app` instance gets overloaded because it's used by huge numbers of profiles at once. This file now uses `github-profile-trophy-liard-delta.vercel.app`, one of several volunteer-run mirrors listed directly in the [official repo README](https://github.com/ryo-ma/github-profile-trophy) for load balancing. If that particular mirror ever slows down, other official alternates include `github-profile-trophy-fork-two.vercel.app`, `github-profile-trophy-winning.vercel.app`, and `github-profile-trophy-kannan.vercel.app` — just swap the domain, all parameters stay the same. For a permanent fix, fork the repo and deploy your own free Vercel instance.
-- **Trophies:** served from `github-profile-trophy.vercel.app` ([source](https://github.com/ryo-ma/github-profile-trophy)).
-- **Activity graph:** served from `github-readme-activity-graph.vercel.app` ([source](https://github.com/Ashutosh00710/github-readme-activity-graph)).
-- Replace `Jabedhossain101` throughout if your GitHub username ever changes.
-
-</details>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
-</div>
