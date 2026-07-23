@@ -62,6 +62,11 @@ I love solving problems and building real-world applications.
 ```
 
 ---
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 # 🌐 Connect With Me
 
