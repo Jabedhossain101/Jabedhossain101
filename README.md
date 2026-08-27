@@ -112,8 +112,8 @@ interests:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jabedhossain101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jabedhossain101&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jabedhossain101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabedhossain101&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -124,11 +124,9 @@ interests:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabedhossain101&bg_color=0f172a&color=38bdf8&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</p> -->
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jabedhossain101&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -169,10 +167,9 @@ interests:
 <details>
 <summary>🛠️ Notes for maintaining this README (click to expand)</summary>
 
-- **Streak stats fix:** the old `github-readme-streak-stats.herokuapp.com` domain is dead because Heroku discontinued free dynos. This file uses `streak-stats.demolab.com`, a community-maintained mirror that stays online. If it ever goes down too, self-host the [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project on Vercel for a permanent fix.
-- **Stats/langs cards fix:** the old `github-readme-stats.vercel.app` is **dead** — the original repo (`anuraghazra/github-readme-stats`) is archived and its public instance was paused in Jan 2026 due to cost/rate-limit issues. This file now uses `github-stats-extended.vercel.app`, the officially-endorsed actively-maintained successor ([source repo](https://github.com/stats-organization/github-stats-extended)) — same query parameters, just a different domain. For maximum reliability (no shared rate limits), you can self-host your own instance on Vercel using that repo's one-click deploy button.
-- **Trophies fix:** the shared `github-profile-trophy.vercel.app` instance gets overloaded because it's used by huge numbers of profiles at once. This file now uses `github-profile-trophy-liard-delta.vercel.app`, one of several volunteer-run mirrors listed directly in the [official repo README](https://github.com/ryo-ma/github-profile-trophy) for load balancing. If that particular mirror ever slows down, other official alternates include `github-profile-trophy-fork-two.vercel.app`, `github-profile-trophy-winning.vercel.app`, and `github-profile-trophy-kannan.vercel.app` — just swap the domain, all parameters stay the same. For a permanent fix, fork the repo and deploy your own free Vercel instance.
-- **Trophies:** served from `github-profile-trophy.vercel.app` ([source](https://github.com/ryo-ma/github-profile-trophy)).
+- **Stats/langs cards:** served from the official `github-readme-stats.vercel.app` ([source repo](https://github.com/anuraghazra/github-readme-stats), still actively maintained). It can occasionally hit GitHub's shared rate limit since it's a public shared instance — if cards stop loading temporarily, that's usually why; they come back once the limit resets. For guaranteed uptime, deploy your own free instance on Vercel using the repo's one-click deploy button and swap the domain in this file for your own.
+- **Streak stats fix:** the old `github-readme-streak-stats.herokuapp.com` domain is dead because Heroku discontinued free dynos. This file uses `streak-stats.demolab.com`, a community-maintained mirror that stays online.
+- **Trophies:** served from the official `github-profile-trophy.vercel.app` ([source](https://github.com/ryo-ma/github-profile-trophy)). Same shared-rate-limit caveat as above applies; self-host if it ever becomes unreliable for you.
 - **Activity graph:** served from `github-readme-activity-graph.vercel.app` ([source](https://github.com/Ashutosh00710/github-readme-activity-graph)).
 - **Snake animation setup:** requires a one-time manual setup since it's not a hosted third-party service like the others:
   1. Create `.github/workflows/snake.yml` in this repo with the `Platane/snk@v3` action config.
