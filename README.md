@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Jabed Hossain</h1>
-<h3 align="center">💻 Full Stack Developer (MERN Stack) | 🚀 Passionate Coder | 🌍 From Bangladesh</h3>
+<h3 align="center">💻 Full Stack Developer  | 🚀 Passionate Coder | 🌍 From Bangladesh</h3>
 
 <p align="center">
   <a href="https://jabedportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -30,7 +30,7 @@ interests:
   - Problem Solving & DSA
 ```
 
-- 💡 Passionate Full Stack Developer specializing in **MongoDB, Express.js, React.js, Node.js**
+- 💡 Passionate Full Stack Developer specializing in ** Typescript , Next.js, Express.js, React.js, Node.js , Postgresql, Prisma , Mongoose **
 - 🏗️ I build scalable, efficient, and maintainable applications end-to-end
 - 📚 Always learning new technologies to stay ahead in the tech world
 - 🤝 Open to collaborating on interesting open-source and freelance projects
